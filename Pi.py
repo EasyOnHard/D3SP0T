@@ -1,6 +1,10 @@
 from time import sleep
 from lib.shared import *
 
+'''
+This Program was made by ChatGPT for fun. The most precise it gets is 3.14159297943115 after about 160 iterations (5 Seconds.) It is the same even after 20,000 iterations (10 Minutes)
+'''
+
 # Nilakantha Series Calculation
 def calculate_pi():
     global button_down
